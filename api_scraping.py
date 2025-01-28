@@ -1,8 +1,6 @@
 import requests
 import json
 import pandas as pd
-from pandas import json_normalize
-
 
 #Use this API
 api_url = "https://fakestoreapi.com/products"
